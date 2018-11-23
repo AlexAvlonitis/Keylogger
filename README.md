@@ -1,8 +1,7 @@
 Keylogger
 =========
 
-Simple FTP Python Keylogger v1.0 -Alex Avlonitis-
-http://techfromhell.blogspot.com
+Simple FTP Python Keylogger v1.0 -Alex Avlonitis- alex.avlonitis.me
 
 Required:<br/>
 Python 2.7 32bit: http://www.activestate.com/activepython/downloads<br/>
