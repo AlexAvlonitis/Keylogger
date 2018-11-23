@@ -1,5 +1,5 @@
 """
-Simple FTP Keylogger project v1.0 by Alex Avlonitis www.techfromhell.blogspot.com 
+Simple FTP Keylogger project v1.0 by Alex Avlonitis http://alex.avlonitis.me
 inspired by https://github.com/ajinabraham/Xenotix-Python-Keylogger
 """
 from ftplib import FTP
