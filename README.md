@@ -1,7 +1,7 @@
 Keylogger
 =========
 
-Simple FTP Python Keylogger for Windows only. -Alex Avlonitis- http://alex.avlonitis.me
+Simple FTP Python Keylogger for Windows only.
 
 
 Required:<br/>
